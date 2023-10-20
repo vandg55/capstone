@@ -122,7 +122,7 @@
 
   <!-- Main Footer -->
   <footer class="main-footer">
-    <strong>1 source code <a href="https://1sourcecodr.blogspot.com/">Link</a>.</strong>
+    <strong>Enroll Now</strong>
    
     <div class="float-right d-none d-sm-inline-block">
       <b><?php echo $_SESSION['system']['name'] ?></b>

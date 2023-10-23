@@ -46,7 +46,7 @@ foreach($qry as $k => $v){
 	</table>
 </div>
 <div class="modal-footer display p-0 m-0">
-        <button type="button" class="btn btn-success" id="print"><i class="fa fa-print"></i> Print</button>
+        
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
 </div>
 <style>

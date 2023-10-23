@@ -43,7 +43,15 @@
                 Subjects
               </p>
             </a>
-          </li>   
+          </li> 
+          <li class="nav-item dropdown">
+            <a href="./index.php?page=curriculum" class="nav-link">
+              <i class="nav-icon fas fa-book"></i>
+              <p>
+                Curriculum
+              </p>
+            </a>
+          </li>     
           <li class="nav-item">
             <a href="#" class="nav-link nav-edit_student">
               <i class="nav-icon fas fa-users"></i>
@@ -74,7 +82,10 @@
                 Results
               </p>
             </a>
-          </li>  
+          </li> 
+
+       
+
         </ul>
       </nav>
     </div>

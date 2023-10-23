@@ -73,7 +73,7 @@ header("location:index.php?page=home");
   						</div>
   						<div class="w-100 d-flex justify-content-center align-items-center">
                 <button class="btn-sm btn-block btn-wave col-md-4 btn-primary m-0 mr-1">Login</button>
-                <button class="btn-sm btn-block btn-wave col-md-4 btn-success m-0" type="button" id="view_result">View Result</button>
+                <button class="btn-sm btn-block btn-wave col-md-4 btn-success m-0" type="button" id="view_result">View Student Result</button>
               </div>
   					</form>
   				</div>
